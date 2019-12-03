@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="15" height="14" viewBox="0 0 15 14">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_51" data-name="Rectangle 51" width="15" height="14" transform="translate(853 446)" fill="none" stroke="#707070" stroke-width="0.3"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(-853 -446)" clip-path="url(#clip-path)">
+    <g id="Component_3_1" data-name="Component 3 – 1" transform="translate(855 448)">
+      <rect id="Rectangle_38" data-name="Rectangle 38" width="10" height="10" fill="#b7b7b7"/>
+      <rect id="Rectangle_39" data-name="Rectangle 39" width="2" height="2" transform="translate(1 4)" fill="#fff"/>
+      <rect id="Rectangle_44" data-name="Rectangle 44" width="2" height="2" transform="translate(1 7)" fill="#fff"/>
+      <rect id="Rectangle_40" data-name="Rectangle 40" width="2" height="2" transform="translate(4 4)" fill="#fff"/>
+      <rect id="Rectangle_43" data-name="Rectangle 43" width="2" height="2" transform="translate(4 7)" fill="#fff"/>
+      <rect id="Rectangle_41" data-name="Rectangle 41" width="2" height="2" transform="translate(7 4)" fill="#fff"/>
+      <rect id="Rectangle_42" data-name="Rectangle 42" width="2" height="2" transform="translate(7 7)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
