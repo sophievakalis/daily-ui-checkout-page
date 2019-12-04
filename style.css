@@ -45,6 +45,10 @@ body{
 	display: flex;
 }
 
+.navbar img{
+	width: 130px;
+}
+
 
 
 .content{
@@ -83,6 +87,16 @@ p{
 	color: white;
 	margin: 5px;
 }
+
+.card_details input{
+	border: none;
+	color: #B7B7B7;
+	font-size:  15px;
+	font-family: 'Roboto', sans-serif;
+	width: 100%;
+}
+
+
 
 @media screen and (max-width: 900px) {
 	.background{
